@@ -1,5 +1,14 @@
-# Tags: prod-latest, prod-31f964
+# Tags: prod-latest, prod-5065c4
 FROM mozilla/kitsune:prod-latest
+FROM mozilla/kitsune:prod-5065c4
+
+# Tags: prod-5387e6
+FROM mozilla/kitsune:prod-5387e6
+
+# Tags: prod-6bf131
+FROM mozilla/kitsune:prod-6bf131
+
+# Tags: prod-31f964
 FROM mozilla/kitsune:prod-31f964
 
 # Tags: prod-942312
